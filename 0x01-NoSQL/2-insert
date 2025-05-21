@@ -1,2 +1,2 @@
 // This script inserts a document with name "ALX" into the collection 'school'
-db.school.insertOne({ name: "ALX" })
+db.school.insert({ name: "ALX" })
